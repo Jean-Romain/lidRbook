@@ -1,2 +1,2 @@
 # lidRbook
-Old repository for the lidR package tutorials book
+The book repository has moved to [`r-lidr/lidRbook`](https://r-lidar.github.io/lidRbook/)
